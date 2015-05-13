@@ -1,12 +1,13 @@
 {
   "name": "toggle-document-fonts",
   "title": "toggle-document-fonts",
-  "id": "jid1-Yw7IzTjakkfy2g",
+  "id": "jid1-Yw7IzTjakkfy2g@jetpack",
   "description": "A simple toolbar button to quickly toggle browser.display.use_document_fonts ",
   "author": "dbyrne",
   "license": "GNU GPL v3",
   "permissions": {"private-browsing": true},
   "icon":"data/images/icon.png",
   "icon64":"data/images/icon_on64.png",
-  "version": "1.0"
+  "version": "1.0",
+  "main":"lib/main.js"
 }

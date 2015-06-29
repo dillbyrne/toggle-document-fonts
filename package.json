@@ -6,8 +6,7 @@
   "author": "dbyrne",
   "license": "GNU GPL v3",
   "permissions": {"private-browsing": true},
-  "icon":"data/images/icon.png",
-  "icon64":"data/images/icon_on64.png",
-  "version": "1.0",
+  "icon":{"48":"icon.png"},
+  "version": "1.1",
   "main":"lib/main.js"
 }
